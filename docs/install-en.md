@@ -16,3 +16,7 @@ Startup after Windows sign-in is optional in Settings. Closing the window leaves
 Intake is one way: PC → LUNA. Local deletions do not delete LUNA materials. Paid AI does not run automatically. Online-only downloads are off by default; network costs are separate. OneDrive cloud freshness is separate from server receipt.
 
 [Full bilingual help and troubleshooting](https://lunalab-ai.com/workspace/help/folder-sync/). iOS is planned for future development.
+
+## Lab Drive archive
+
+Uses the administrator-configured nonpublic archive. Grant → project → connected folder contains current-material shortcuts, immutable original versions and version-specific JSON manifests. Intake, preservation and organization are separate. Code, array, data-table and model originals are stored without execution. The existing 100 MB/file, 1 GB/day and exclusions remain. Larger originals use resumable chunk uploads. Administrators review existing-file organization in the web folder detail; original Drive IDs and versions are retained. Connection and quota problems remain waiting or need attention. No paid AI runs automatically.
