@@ -1,3 +1,10 @@
+# 0.6.0 preview
+
+- Preserve research code, array, data-table and model files without executing them.
+- Match the server type policy and bounded folder depth.
+- Use the existing administrator-configured archive for grant/project/folder organization, immutable versions and current-file shortcuts.
+- Keep the original account, folder consent, limits, pauses and unsigned-preview boundary.
+
 # 0.5.0 preview
 
 - Show PC folders in LUNA grant and project connections, using the existing identifiers.
