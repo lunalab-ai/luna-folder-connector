@@ -1,3 +1,13 @@
+# 0.7.0 preview
+
+- Detect file events, verify unchanged metadata periodically, and resume encrypted bulk queues beyond 10,000 files.
+- Release source-file locks before network transfer; retain encrypted recovery copies until verified Drive preservation.
+- Confirm absence through two complete scans; retain original versions and retire only current shortcuts.
+- Report scan, transfer, preservation and version status independently.
+- Prepare one operational platform notice, private LUNA AI service message and verified university email per user and release.
+- Derive readable titles and optional grounded summaries without replacing original names or human titles.
+- Add trusted-publisher automatic-update checks and health/rollback handling. The current unsigned preview requires manual installation; signed update and rollback verification still require an issued publisher certificate.
+
 # 0.6.0 preview
 
 - Preserve research code, array, data-table and model files without executing them.
