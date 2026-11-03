@@ -1,3 +1,10 @@
+# 0.8.0 preview
+
+- Main-window, Settings and tray update buttons open the official manual installer page in your language while publisher signing is unavailable.
+- Compatibility reporting supports the platform's 7-day update grace period and per-PC minimum-version policy.
+- Update-required waits preserve folder settings, pending work and existing pause choices. Install over the existing app as the same Windows user.
+- Unsigned preview: installers are not automatically executed; Windows confirmation still applies.
+
 # 0.7.0 preview
 
 - Detect file events, verify unchanged metadata periodically, and resume encrypted bulk queues beyond 10,000 files.
