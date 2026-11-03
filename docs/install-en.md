@@ -28,3 +28,8 @@ File events complement inventory checks about every two minutes. Startup, detect
 External connections separately show recent PC response, scanning and queued counts, Drive preservation, version and update status. A stale response does not prove the PC is off. Each release prepares a platform notice, private LUNA AI service message and email through verified university accounts. Older apps need an initial manual MSI installation. This unsigned preview cannot execute automatic installation. Later signed releases can use the automatic-install preference; failed installations are not repeatedly attempted.
 
 Original filenames and human titles remain intact. Derived display titles are separate. Optional AI summaries follow the administrator policy, current source access and existing AI allowances, with evidence and coverage shown.
+
+
+## 0.8.0 update button and 7-day grace period
+
+Use the update button in the main window, Settings or tray. For unsigned previews, download from the official page and install over the existing app as the same Windows user. Do not uninstall first. Folders, connections, pending work and pauses remain. An activated minimum version restricts new uploads from unsupported apps after 7 days. Admitted transfers, existing materials, Drive preservation and status remain available. Check the per-PC deadline and supported-version response in platform update notices. Older apps require one initial manual install to gain the button. Do not bypass Windows or university security policies.
