@@ -4,7 +4,7 @@ LUNA의 공식 Windows 폴더 연결 프로그램 배포 저장소입니다. / O
 
 **[Windows 다운로드·설치 / Download and install](https://lunalab-ai.com/download/)**
 
-**[0.6.0 검증판 MSI / Preview MSI](https://github.com/lunalab-ai/luna-folder-connector/releases/download/v0.6.0-preview.1/LunaFolderConnector-Setup-x64.msi)**
+**[0.8.0 검증판 MSI / Preview MSI](https://github.com/lunalab-ai/luna-folder-connector/releases/download/v0.8.0-preview.1/LunaFolderConnector-Setup-x64.msi)**
 
 [한국어 설치 안내](docs/install-ko.md) · [English installation guide](docs/install-en.md) · [Releases](https://github.com/lunalab-ai/luna-folder-connector/releases) · [Changes](CHANGELOG.md)
 
