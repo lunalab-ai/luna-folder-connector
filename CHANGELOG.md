@@ -1,3 +1,10 @@
+# 0.8.1 preview
+
+- Use the same versioned MSI filename in GitHub, LUNA downloads and the updater cache.
+- Reinstalling the same version uses a per-user Windows Installer source cache, including browser-renamed downloads, while preserving connections and pause choices.
+- Correct the MSI executable version and include an automatic installation-log path on failure.
+- Unsigned preview: manual installation remains required; existing 7-day minimum-version policies remain unchanged.
+
 # 0.8.0 preview
 
 - Main-window, Settings and tray update buttons open the official manual installer page in your language while publisher signing is unavailable.
