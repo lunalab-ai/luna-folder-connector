@@ -1,6 +1,6 @@
 # Install and connect a Windows folder
 
-1. Download the MSI from the [official download page](https://lunalab-ai.com/download/). Compare the release SHA256SUMS.txt with `Get-FileHash .\LunaFolderConnector-Setup-x64.msi -Algorithm SHA256`.
+1. Download `LunaFolderConnector-0.8.1-win-x64.msi` from the [official download page](https://lunalab-ai.com/download/?lang=EN). Compare the release SHA256SUMS.txt with `Get-FileHash .\LunaFolderConnector-0.8.1-win-x64.msi -Algorithm SHA256`. Keep the versioned filename and installer for later maintenance.
 2. Run the MSI. It installs for the current Windows user with a self-contained runtime. This is an unsigned preview; ask your administrator if Windows or school policy blocks it.
 3. Open LUNA Folder Connector from Start. Under Account, sign in to LUNA and approve the matching browser account and confirmation code. No project selection is needed yet.
 4. In My folders, add a folder using OneDrive detection or Browse. Choose a real folder synced by the official OneDrive client. No Entra registration or Microsoft secret is required.
@@ -8,6 +8,8 @@
 6. Review folder → grant → project and separate receipt, preservation and extraction counts. Add multiple folders and pause or unlink each. The same connections appear under grant/project external connections and My PC and sync management.
 
 ## Pause, deletion and updates
+
+Install updates over the existing app as the same Windows user; do not uninstall first. Version 0.8.1 also supports reinstalling the same version. It keeps the already installed package source in a per-user cache so Windows can find it when a downloaded copy has another name. If installation fails, the error screen shows the automatically created MSI log location. Keep that log for support; do not change Windows security policy or remove your settings to repair an installation.
 
 Allowing server intake preserves local global and folder pauses. Offline or signed-out PCs must reconnect. Unlinking stops future intake for that folder and preserves PC files, LUNA materials, versions, administrator copies and extracted information. Restoring retains IDs and keeps intake paused pending PC scope review.
 
