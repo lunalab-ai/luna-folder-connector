@@ -1,3 +1,11 @@
+# 0.8.2 preview
+
+- 설치 오류 대화상자의 잘못된 정의로 발생하던 Windows Installer 2868을 수정했습니다. 원래 오류와 설치 로그 위치를 표시합니다.
+- Fixed Windows Installer error 2868 caused by an incorrectly defined error dialog. Setup now displays the underlying message and log location.
+- 같은 Windows 사용자로 기존 앱 위에 설치하세요. 폴더 연결·대기 파일·일시중지·시작프로그램 선택을 유지합니다.
+- Install over the existing app as the same Windows user. Folder connections, pending files, pause and startup choices are preserved.
+- Unsigned preview; manual installation remains required.
+
 # 0.8.1 preview
 
 - Use the same versioned MSI filename in GitHub, LUNA downloads and the updater cache.
